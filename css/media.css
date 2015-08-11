@@ -1,0 +1,21 @@
+@media only screen and (max-width : 1200px) {
+
+}
+
+@media only screen and (max-width : 979px) {
+.right{border-left:none;}
+}
+
+@media only screen and (max-width : 767px) {
+.right{border-left:none;}
+}
+
+@media only screen and (max-width : 480px) {
+.right{border-left:none;}
+}
+
+@media only screen and (max-width : 320px) {
+
+.left_box{padding:20px;min-height:50px;}
+.right_box{border-left:none;margin-top:0px;}
+}
