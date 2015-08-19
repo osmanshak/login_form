@@ -16,6 +16,6 @@
 
 @media only screen and (max-width : 320px) {
 
-.left_box{padding:20px;min-height:50px;}
-.right_box{border-left:none;margin-top:0px;}
+.left_box{padding: 20px; min-height: 50px;}
+.right_box{border-left:none; margin-top:none;}
 }
