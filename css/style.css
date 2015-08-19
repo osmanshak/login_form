@@ -19,7 +19,7 @@ body{
 .left_box{
     min-height: 225px;
     box-sizing:border-box;
-    padding:75px 20px 0px 30px;
+    padding:75px 20px 1px 30px;
 }
 .right_box{
     min-height: 225px;
